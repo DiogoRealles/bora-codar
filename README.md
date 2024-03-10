@@ -24,6 +24,24 @@
 # Bora Codar 01
 
   <p>
+    Player de audio. <br />
+    <b>HTML5, CSS3 / SASS, JS</b>.
+  </p>
+
+<br /> <br />
+
+# Bora Codar 02
+
+  <p>
+    Lorem ipsum dollor amet... <br />
+    <b>HTML5, CSS3 / SASS, JS</b>.
+  </p>
+
+<br /> <br />
+
+# Bora Codar 03
+
+  <p>
     Lorem ipsum dollor amet... <br />
     <b>HTML5, CSS3 / SASS, JS</b>.
   </p>
